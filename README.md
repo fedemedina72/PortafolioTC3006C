@@ -13,7 +13,7 @@ Dentro del [Modulo2](Modulo2/Portafolio1) encontramos distintos archivos que per
 #### [RegresionLineal.ipynb](Modulo2/Portafolio1/RegresionLineal.ipynb)
 
 
-#### [CO2 Emissions.csv](Modulo2/Portafolio1/CO2 Emissions.csv)
+#### [CO2Emissions.csv](Modulo2/Portafolio1/CO2 Emissions.csv)
 
 
 #### [RegresionLinealFramework.ipynb](Modulo2/Portafolio1/RegresionLinealFramework.ipynb)
