@@ -10,16 +10,16 @@ Dentro del portafolio se encuentran dos folders importantes: [Modulo1](Modulo1) 
 ### Modulo2
 Dentro del [Modulo2](Modulo2/Portafolio1) encontramos distintos archivos que pertenecen al módulo de Machine Learning. Este se desgloza de la siguiente manera:
 
-##### [RegresionLineal.ipynb](Modulo2/Portafolio1/RegresionLineal.ipynb)
+#### [RegresionLineal.ipynb](Modulo2/Portafolio1/RegresionLineal.ipynb)
 
 
-##### [CO2 Emissions.csv](Modulo2/Portafolio1/CO2 Emissions.csv)
+#### [CO2 Emissions.csv](Modulo2/Portafolio1/CO2 Emissions.csv)
 
 
-##### [RegresionLinealFramework.ipynb](Modulo2/Portafolio1/RegresionLinealFramework.ipynb)
+#### [RegresionLinealFramework.ipynb](Modulo2/Portafolio1/RegresionLinealFramework.ipynb)
 
 
-##### [Análisis_del_Contexto_y_la_Normatividad_-2.pdf](Modulo2/Portafolio1/Análisis_del_Contexto_y_la_Normatividad_-2.pdf)
+#### [Análisis_del_Contexto_y_la_Normatividad_-2.pdf](Modulo2/Portafolio1/Análisis_del_Contexto_y_la_Normatividad_-2.pdf)
 
 
-##### [ReporteDesempeño.ipynb](Modulo2/Portafolio1/ReporteDesempeño.ipynb)
+#### [ReporteDesempeño.ipynb](Modulo2/Portafolio1/ReporteDesempeño.ipynb)
